@@ -1,5 +1,5 @@
-# Cypher668.github.io
-<!DOCTYPE html>
+# Matrix Store
+We focus on finding best products for your skin
 <html>
 <head>
 <title>Matrix Store</title>
